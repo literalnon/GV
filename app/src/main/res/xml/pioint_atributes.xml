@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<declare_styleable>
+<attr name="width" format="dimensions"/>
+</declare_styleable>
